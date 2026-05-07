@@ -171,10 +171,12 @@ This phase bridges the gap between **attack execution and detection engineering*
 
 ## 14. Supporting Evidence
 
-![Nmap Scan Activity](../GITHUB/nmap-a-scn.png)
+=>Nmap Scan Activity
+![Nmap Scan Activity](../nmap-a-scn.png)
 
-![System Log Monitoring](../GITHUB/nmap-scan.png)
+=>System Log Monitoring
+![System Log Monitoring](../nmap-scan.png)
 
-![System Log Monitoring](../GITHUB/nmap-scn.png)
+
 ---
 
