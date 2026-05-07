@@ -168,8 +168,10 @@ This completes the **attack execution phase** of the lab.
 
 ## 15. Supporting Evidence
 
-![Reverse Shell Attempt](../GITHUB/reverseShell-simu-atk.png)
+=>Reverse Shell Attempt
+![Reverse Shell Attempt](../reverseShell-simu-atk.png)
 
-![Listener Output](../GITHUB/reverseShell-simu-atk.png2)
+=>Listener Output
+![Listener Output](../reverseShell-simu-atk2.png)
 
 ---
