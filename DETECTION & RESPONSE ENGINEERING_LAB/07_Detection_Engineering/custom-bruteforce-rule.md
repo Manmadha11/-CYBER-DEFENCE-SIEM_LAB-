@@ -196,7 +196,10 @@ This establishes a strong foundation for building advanced detection mechanisms.
 
 ## 15. Supporting Evidence
 
-![CUSTUM RULE](../GITHUB/custum-ruls.png)
+=>CUSTUM RULE
+![CUSTUM RULE](../custum-ruls.png)
 
-![CUSTUM RULE ALERT](../GITHUB/wzh-ssh-brut-id.png)
+=>CUSTUM RULE ALERT
+![CUSTUM RULE ALERT](../wzh-ssh-brut-id.png)
+
 ---
