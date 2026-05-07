@@ -133,8 +133,10 @@ The results provide a clear understanding of exposed services and potential entr
 
 ## 12. Supporting Evidence
 
-![Nmap Scan Output](../images/nmap-scan.png)
+=>Nmap Scan Output
+![Nmap Scan Output](../nmap-scan.png)
 
-![SSH Service Status](../images/ssh-status.png)
+=>SSH Service Status
+![SSH Service Status](../ssh-status.png)
 
 ---
