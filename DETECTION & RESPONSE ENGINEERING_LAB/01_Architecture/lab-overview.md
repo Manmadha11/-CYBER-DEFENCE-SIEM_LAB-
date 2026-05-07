@@ -152,12 +152,16 @@ This foundation enables realistic SOC-level experimentation and learning.
 
 ## 11. Supporting Evidence
 
+=>VM Overview
 ![VM Overview](../vm-overview.png)
 
+=>Wazuh IP
 ![Wazuh IP](../wazuh-ip.png)
 
-![Kali IP](../kali-ip.png)
+=>Kali IP
+![Kali IP](../kali_ip.png)
 
-![Connectivity Test](../ping-test.png)
+=>Connectivity Test
+![Connectivity Test](../ping-test_bwt-vms.png)
 
 ---
