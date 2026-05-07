@@ -164,8 +164,10 @@ A SIEM is only as strong as its detection logic and rule design
 
 ## 15. Supporting Evidence
 
-![Execution Logs](../GITHUB/rspns-atkr-blck.png)
+=>Execution Logs
+![Execution Logs](../rspns-atkr-blck.png)
 
-![Reverse Shell Attempt](../GITHUB/rspns-atkr-block2.png)
+=>Reverse Shell Attempt
+![Reverse Shell Attempt](../rspns-atkr-block2.png)
 
 ---
