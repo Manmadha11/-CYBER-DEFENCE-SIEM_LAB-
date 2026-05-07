@@ -143,14 +143,19 @@ The environment is now ready for **custom detection rule development and advance
 
 ## 12. Supporting Evidence
 
-![SIEM Dashboard Logs](../images/logs-w.png)
+=>SIEM Dashboard Logs
+![SIEM Dashboard Logs](../logs-w.png)
 
-![Agent Logs](../images/logs-A.png)
+=>Agent Logs
+![Agent Logs](../logs-A.png)
 
-![Auth Log Evidence](../images/logs-a2.png)
+=>Auth Log Evidence
+![Auth Log Evidence](../logs-a2.png)
 
-![Agent Logs](../GITHUB/wzh-ssh-brut-id.png)
+=>Agent Logs
+![Agent Logs](../wzh-ssh-brut-id.png)
 
-![Agent Logs](../GITHUB/wzh-ssh-brut-id2.png)
+=>Agent Logs
+![Agent Logs](../wzh-ssh-brut-id2.png)
 
 ---
