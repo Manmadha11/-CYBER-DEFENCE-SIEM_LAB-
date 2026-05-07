@@ -134,12 +134,16 @@ These logs will be used in subsequent phases to:
 
 ## 13. Supporting Evidence
 
-![Hydra Attack Output](../images/hydra-attc.png)
+=>Hydra Attack Output
+![Hydra Attack Output](../hydra-attc.png)
 
-![Wazuh Logs](../images/w-logs.png)
+=>Wazuh Logs
+![Wazuh Logs](../w-logs.png)
 
-![Agent Logs](../images/agent-logs.png)
+=>Agent Logs
+![Agent Logs](../agent-logs.png)
 
-![Auth Log Evidence](../images/auth-log.png)
+=>Auth Log Evidence
+![Auth Log Evidence](../auth-log.png)
 
 ---
