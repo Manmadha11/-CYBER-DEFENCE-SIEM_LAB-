@@ -153,14 +153,19 @@ The environment is now fully prepared for **detection engineering and alert vali
 
 ## 12. Supporting Evidence
 
-![Wazuh Logs](../images/w-logs.png)
+=>Wazuh Logs
+![Wazuh Logs](../w-logs.png)
 
-![System Logs](../images/logs-w2.png)
+=>System Logs
+![System Logs](../logs-w2.png)
 
-![Agent Logs](../images/logs-A.png)
+=>Agent Logs
+![Agent Logs](../logs-A.png)
 
-![Auth Log](../images/auth-log.png)
+=>Auth Log
+![Auth Log](../auth-log.png)
 
-![Additional Logs](../images/logs-a2.png)
+=>Additional Logs
+![Additional Logs](../logs-a2.png)
 
 ---
