@@ -195,10 +195,13 @@ Together with authentication logs, this completes the **log collection layer** o
 
 ## 14. Supporting Evidence
 
-![System Logs](../GITHUB/ubnt-ssh-raw.png)
+=>System Logs
+![System Logs](../ubnt-ssh-raw.png)
 
-![UFW Logs](../GITHUB/ubnt-ssh-raw2.png)
+=>UFW Logs
+![UFW Logs](../ubnt-ssh-raw2.png)
 
-![Reverse Shell Logs](../GITHUB/ubnt-ssh-raw4.png)
+=>Reverse Shell Logs
+![Reverse Shell Logs](../ubnt-ssh-raw4.png)
 
 ---
