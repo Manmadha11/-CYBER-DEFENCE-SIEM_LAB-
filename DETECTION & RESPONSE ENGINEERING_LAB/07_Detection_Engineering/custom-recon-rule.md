@@ -201,7 +201,10 @@ The results confirm:
 
 ## 16. Supporting Evidence
 
-![CUSTUM RULE](../GITHUB/custum-ruls-nmp.png)
+=>CUSTUM RULE
+![CUSTUM RULE](../custum-ruls-nmp.png)
 
-![CUSTUM RULE ALERT](../GITHUB/wzh-nmap-scan-id.png)
+=>CUSTUM RULE ALERT
+![CUSTUM RULE ALERT](../wzh-nmap-scan-id.png)
+
 ---
