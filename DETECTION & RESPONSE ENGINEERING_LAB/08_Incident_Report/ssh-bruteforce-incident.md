@@ -162,8 +162,10 @@ The results confirm:
 
 ## 14. Supporting Evidence
 
-![UFW Block](../GITHUB/rspns-ssh.png)
+=>UFW Block
+![UFW Block](../rspns-ssh.png)
 
-![Active Response Logs](../GITHUB/ubnt-raw-ssh.png)
+=>Active Response Logs
+![Active Response Logs](../ubnt-raw-ssh.png)
 
 ---
