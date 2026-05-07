@@ -209,9 +209,11 @@ The results confirm:
 
 ## 17. Supporting Evidence
 
-![CUSTUM RULE](../GITHUB/custum-ruls-pwrshl.png)
+=>CUSTUM RULE
+![CUSTUM RULE](../custum-ruls-pwrshl.png)
 
-![CUSTUM RULE ALERT](../GITHUB/wzh-ssh-brut-id.png)
+=>CUSTUM RULE ALERT
+![CUSTUM RULE ALERT](../wzh-ssh-brut-id.png)
 
 
 ---
