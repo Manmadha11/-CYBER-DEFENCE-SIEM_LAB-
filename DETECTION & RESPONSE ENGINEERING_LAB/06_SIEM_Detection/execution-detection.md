@@ -186,8 +186,10 @@ This insight elevates the project from basic detection to **advanced analytical 
 
 ## 15. Supporting Evidence
 
-![Execution Detection Logs](../GITHUB/wzh-rvshl-id.png)
+=>Execution Detection Logs
+![Execution Detection Logs](../wzh-rvshl-id.png)
 
-![System Logs](../GITHUB/wzh-id-pwrshl.png)
+=>Execution Detection Log
+![Execution Detection Logs2](../wzh-id-pwrshl.png)
 
 ---
