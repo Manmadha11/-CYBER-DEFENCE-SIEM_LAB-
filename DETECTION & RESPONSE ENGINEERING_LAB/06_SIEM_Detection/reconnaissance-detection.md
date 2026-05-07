@@ -174,8 +174,10 @@ This phase strengthens the lab’s ability to detect attacks **before exploitati
 
 ## 14. Supporting Evidence
 
-![Recon Detection Logs](../GITHUB/wzh-nmap-scan-id.png)
+=>Recon Detection Logs
+![Recon Detection Logs](../wzh-nmap-scan-id.png)
 
-![UFW Logs](../GITHUB/wzh-nmap-scan-id.png2)
+=>Recon Detection Log
+![Recon Detection Log](../wzh-nmap-scan-id2.png)
 
 ---
