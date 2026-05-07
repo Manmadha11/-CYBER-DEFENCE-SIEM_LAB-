@@ -141,20 +141,28 @@ With SIEM validation complete, the lab is ready to proceed to:
 
 ## 9. Supporting Evidence
 
-![Wazuh Agent Status](../images/w-agent-status.png)
+=>Wazuh Agent Status
+![Wazuh Agent Status](../w-agent-status.png)
 
-![Wazuh Manager Status](../images/wazuh-status.png)
+=>Wazuh Manager Status
+![Wazuh Manager Status](../wazuh-status.png)
 
-![Wazuh Dashboard](../images/w1.png)
+=>Wazuh Dashboard
+![Wazuh Dashboard](../w1.png)
 
-![Wazuh Dashboard](../images/w2.png)
+=>Wazuh Dashboard
+![Wazuh Dashboard](../w2.png)
 
-![Wazuh Dashboard](../images/w3.png)
+=>Wazuh Dashboard
+![Wazuh Dashboard](../w3.png)
 
-![Wazuh Dashboard](../images/w4.png)
+=>Wazuh Dashboard
+![Wazuh Dashboard](../w4.png)
 
-![Wazuh Logs](../images/w-logs.png)
+=>Wazuh Logs
+![Wazuh Logs](../w-logs.png)
 
-![Agent Logs](../images/agent-logs.png)
+=>Agent Logs
+![Agent Logs](../agent-logs.png)
 
 ---
