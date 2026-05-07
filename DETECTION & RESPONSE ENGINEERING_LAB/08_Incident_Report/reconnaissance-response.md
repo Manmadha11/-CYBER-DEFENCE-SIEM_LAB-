@@ -161,8 +161,10 @@ The results confirm:
 
 ## 14. Supporting Evidence
 
-![Recon Response](../GITHUB/ubnt-ssh-raw4.png)
+=>Recon Response
+![Recon Response](../ubnt-ssh-raw4.png)
 
-![UFW Logs](../GITHUB/nmap-rspns.png)
+=>UFW Logs
+![UFW Logs](../nmap-rspns.png)
 
 ---
